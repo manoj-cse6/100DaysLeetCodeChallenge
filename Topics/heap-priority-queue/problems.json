@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-08-25T19:50:22.313Z",
+  "updatedAt": "2026-08-25T19:52:25.615Z",
   "problems": [
     {
       "frontendId": "347",
@@ -42,7 +42,7 @@
           "filename": "3066-minimum-operations-to-exceed-threshold-value-ii.cpp",
           "path": "3066-minimum-operations-to-exceed-threshold-value-ii/3066-minimum-operations-to-exceed-threshold-value-ii.cpp",
           "sha": "48a69cf5289e980ef693e03aa82e56ff25812345",
-          "lastSyncedAt": "2026-08-25T19:50:05.548Z"
+          "lastSyncedAt": "2026-08-25T19:52:25.615Z"
         }
       ]
     }
