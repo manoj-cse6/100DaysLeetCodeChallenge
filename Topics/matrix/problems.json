@@ -4,6 +4,27 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-08-25T18:47:11.270Z",
-  "problems": []
+  "updatedAt": "2026-08-25T19:41:00.947Z",
+  "problems": [
+    {
+      "frontendId": "885",
+      "title": "Spiral Matrix III",
+      "slug": "spiral-matrix-iii",
+      "problemName": "0885-spiral-matrix-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix-iii/",
+      "folderPath": "0885-spiral-matrix-iii/",
+      "readmePath": "0885-spiral-matrix-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0885-spiral-matrix-iii.cpp",
+          "path": "0885-spiral-matrix-iii/0885-spiral-matrix-iii.cpp",
+          "sha": "f3f5edf1e96f7c898d41ca34c4862a3008b93265",
+          "lastSyncedAt": "2026-08-25T19:41:00.947Z"
+        }
+      ]
+    }
+  ]
 }
