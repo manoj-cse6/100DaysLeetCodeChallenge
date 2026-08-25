@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-25T19:45:16.723Z",
+  "updatedAt": "2026-08-25T19:45:20.234Z",
   "problems": [
     {
       "frontendId": "347",
@@ -102,7 +102,7 @@
           "filename": "2029-stone-game-ix.cpp",
           "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "02815a879ade7e4c4b88ffcd6ae0cd5b39cc0e2a",
-          "lastSyncedAt": "2026-08-25T19:42:55.225Z"
+          "lastSyncedAt": "2026-08-25T19:45:20.234Z"
         }
       ]
     },
