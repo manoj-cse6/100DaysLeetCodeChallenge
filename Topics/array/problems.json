@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-25T19:41:11.485Z",
+  "updatedAt": "2026-08-25T19:41:49.783Z",
   "problems": [
     {
       "frontendId": "885",
@@ -43,6 +43,26 @@
           "path": "2090-k-radius-subarray-averages/2090-k-radius-subarray-averages.cpp",
           "sha": "ae7a41587b8eee02a868dd73208bc5ec252f5eac",
           "lastSyncedAt": "2026-08-25T19:41:11.485Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3066",
+      "title": "Minimum Operations to Exceed Threshold Value II",
+      "slug": "minimum-operations-to-exceed-threshold-value-ii",
+      "problemName": "3066-minimum-operations-to-exceed-threshold-value-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/",
+      "folderPath": "3066-minimum-operations-to-exceed-threshold-value-ii/",
+      "readmePath": "3066-minimum-operations-to-exceed-threshold-value-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3066-minimum-operations-to-exceed-threshold-value-ii.cpp",
+          "path": "3066-minimum-operations-to-exceed-threshold-value-ii/3066-minimum-operations-to-exceed-threshold-value-ii.cpp",
+          "sha": "48a69cf5289e980ef693e03aa82e56ff25812345",
+          "lastSyncedAt": "2026-08-25T19:41:49.783Z"
         }
       ]
     },
