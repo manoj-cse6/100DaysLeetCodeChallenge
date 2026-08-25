@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-25T19:49:40.317Z",
+  "updatedAt": "2026-08-25T19:52:00.230Z",
   "problems": [
     {
       "frontendId": "3152",
@@ -22,7 +22,7 @@
           "filename": "3152-special-array-ii.cpp",
           "path": "3152-special-array-ii/3152-special-array-ii.cpp",
           "sha": "0b8e0830a89af8188ac9300af0ae832dd248d20a",
-          "lastSyncedAt": "2026-08-25T19:49:40.317Z"
+          "lastSyncedAt": "2026-08-25T19:52:00.230Z"
         }
       ]
     }
