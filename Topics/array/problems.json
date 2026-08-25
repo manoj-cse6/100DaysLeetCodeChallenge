@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-25T19:53:00.233Z",
+  "updatedAt": "2026-08-25T19:53:05.657Z",
   "problems": [
     {
       "frontendId": "347",
@@ -142,7 +142,7 @@
           "filename": "2114-maximum-number-of-words-found-in-sentences.cpp",
           "path": "2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.cpp",
           "sha": "0ba480c6604f8e3afdf67c4082c5511a3e546d99",
-          "lastSyncedAt": "2026-08-25T19:50:38.065Z"
+          "lastSyncedAt": "2026-08-25T19:53:05.657Z"
         }
       ]
     },
