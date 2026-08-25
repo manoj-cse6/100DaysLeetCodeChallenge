@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-25T19:44:38.797Z",
+  "updatedAt": "2026-08-25T19:44:46.112Z",
   "problems": [
     {
       "frontendId": "347",
@@ -182,7 +182,7 @@
           "filename": "3069-distribute-elements-into-two-arrays-i.cpp",
           "path": "3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.cpp",
           "sha": "2045d467a160aa7d51c5880dde686ef5beccac76",
-          "lastSyncedAt": "2026-08-25T19:42:03.665Z"
+          "lastSyncedAt": "2026-08-25T19:44:46.112Z"
         }
       ]
     },
