@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-25T19:42:19.212Z",
+  "updatedAt": "2026-08-25T19:42:55.225Z",
   "problems": [
     {
       "frontendId": "347",
@@ -23,6 +23,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "77b49f0308a24a13b979b09ae1b39d07c73c0f59",
           "lastSyncedAt": "2026-08-25T19:42:19.212Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2029-stone-game-ix.cpp",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
+          "sha": "02815a879ade7e4c4b88ffcd6ae0cd5b39cc0e2a",
+          "lastSyncedAt": "2026-08-25T19:42:55.225Z"
         }
       ]
     }
