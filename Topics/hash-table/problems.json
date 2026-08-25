@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-25T19:42:09.943Z",
+  "updatedAt": "2026-08-25T19:42:19.212Z",
   "problems": [
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0347-top-k-frequent-elements.cpp",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
+          "sha": "77b49f0308a24a13b979b09ae1b39d07c73c0f59",
+          "lastSyncedAt": "2026-08-25T19:42:19.212Z"
+        }
+      ]
+    },
     {
       "frontendId": "1386",
       "title": "Cinema Seat Allocation",
