@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-25T19:45:20.234Z",
+  "updatedAt": "2026-08-25T19:45:33.183Z",
   "problems": [
     {
       "frontendId": "1281",
@@ -22,7 +22,7 @@
           "filename": "1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp",
           "path": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp",
           "sha": "a7e9b2086381a94c520bec0995986226365c36e2",
-          "lastSyncedAt": "2026-08-25T19:43:19.498Z"
+          "lastSyncedAt": "2026-08-25T19:45:33.183Z"
         }
       ]
     },
