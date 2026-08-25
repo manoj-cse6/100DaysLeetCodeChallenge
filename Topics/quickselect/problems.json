@@ -4,7 +4,7 @@
     "slug": "quickselect",
     "name": "Quickselect"
   },
-  "updatedAt": "2026-08-25T19:47:26.972Z",
+  "updatedAt": "2026-08-25T19:50:22.313Z",
   "problems": [
     {
       "frontendId": "347",
@@ -22,7 +22,7 @@
           "filename": "0347-top-k-frequent-elements.cpp",
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "77b49f0308a24a13b979b09ae1b39d07c73c0f59",
-          "lastSyncedAt": "2026-08-25T19:47:26.972Z"
+          "lastSyncedAt": "2026-08-25T19:50:22.313Z"
         }
       ]
     }
