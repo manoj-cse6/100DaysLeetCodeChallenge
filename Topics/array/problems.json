@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-25T19:41:00.947Z",
+  "updatedAt": "2026-08-25T19:41:11.485Z",
   "problems": [
     {
       "frontendId": "885",
@@ -23,6 +23,26 @@
           "path": "0885-spiral-matrix-iii/0885-spiral-matrix-iii.cpp",
           "sha": "f3f5edf1e96f7c898d41ca34c4862a3008b93265",
           "lastSyncedAt": "2026-08-25T19:41:00.947Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2090",
+      "title": "K Radius Subarray Averages",
+      "slug": "k-radius-subarray-averages",
+      "problemName": "2090-k-radius-subarray-averages",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-radius-subarray-averages/",
+      "folderPath": "2090-k-radius-subarray-averages/",
+      "readmePath": "2090-k-radius-subarray-averages/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2090-k-radius-subarray-averages.cpp",
+          "path": "2090-k-radius-subarray-averages/2090-k-radius-subarray-averages.cpp",
+          "sha": "ae7a41587b8eee02a868dd73208bc5ec252f5eac",
+          "lastSyncedAt": "2026-08-25T19:41:11.485Z"
         }
       ]
     },
