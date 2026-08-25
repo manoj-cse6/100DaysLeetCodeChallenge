@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-25T19:41:49.783Z",
+  "updatedAt": "2026-08-25T19:42:03.665Z",
   "problems": [
     {
       "frontendId": "885",
@@ -63,6 +63,26 @@
           "path": "3066-minimum-operations-to-exceed-threshold-value-ii/3066-minimum-operations-to-exceed-threshold-value-ii.cpp",
           "sha": "48a69cf5289e980ef693e03aa82e56ff25812345",
           "lastSyncedAt": "2026-08-25T19:41:49.783Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "slug": "distribute-elements-into-two-arrays-i",
+      "problemName": "3069-distribute-elements-into-two-arrays-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+      "folderPath": "3069-distribute-elements-into-two-arrays-i/",
+      "readmePath": "3069-distribute-elements-into-two-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3069-distribute-elements-into-two-arrays-i.cpp",
+          "path": "3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.cpp",
+          "sha": "2045d467a160aa7d51c5880dde686ef5beccac76",
+          "lastSyncedAt": "2026-08-25T19:42:03.665Z"
         }
       ]
     },
