@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-25T19:46:54.057Z",
+  "updatedAt": "2026-08-25T19:47:10.107Z",
   "problems": [
     {
       "frontendId": "347",
@@ -162,7 +162,7 @@
           "filename": "3066-minimum-operations-to-exceed-threshold-value-ii.cpp",
           "path": "3066-minimum-operations-to-exceed-threshold-value-ii/3066-minimum-operations-to-exceed-threshold-value-ii.cpp",
           "sha": "48a69cf5289e980ef693e03aa82e56ff25812345",
-          "lastSyncedAt": "2026-08-25T19:44:38.797Z"
+          "lastSyncedAt": "2026-08-25T19:47:10.107Z"
         }
       ]
     },
