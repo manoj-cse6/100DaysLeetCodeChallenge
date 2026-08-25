@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy"
+  },
+  "updatedAt": "2026-08-25T19:41:18.859Z",
+  "problems": [
+    {
+      "frontendId": "1927",
+      "title": "Sum Game",
+      "slug": "sum-game",
+      "problemName": "1927-sum-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-game/",
+      "folderPath": "1927-sum-game/",
+      "readmePath": "1927-sum-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1927-sum-game.cpp",
+          "path": "1927-sum-game/1927-sum-game.cpp",
+          "sha": "987c818cd5633bccba31b6f9fe590cd3a0df2315",
+          "lastSyncedAt": "2026-08-25T19:41:18.859Z"
+        }
+      ]
+    }
+  ]
+}
