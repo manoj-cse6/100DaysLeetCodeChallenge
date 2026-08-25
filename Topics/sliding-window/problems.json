@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sliding-window",
+    "name": "Sliding Window"
+  },
+  "updatedAt": "2026-08-25T19:41:11.485Z",
+  "problems": [
+    {
+      "frontendId": "2090",
+      "title": "K Radius Subarray Averages",
+      "slug": "k-radius-subarray-averages",
+      "problemName": "2090-k-radius-subarray-averages",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-radius-subarray-averages/",
+      "folderPath": "2090-k-radius-subarray-averages/",
+      "readmePath": "2090-k-radius-subarray-averages/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2090-k-radius-subarray-averages.cpp",
+          "path": "2090-k-radius-subarray-averages/2090-k-radius-subarray-averages.cpp",
+          "sha": "ae7a41587b8eee02a868dd73208bc5ec252f5eac",
+          "lastSyncedAt": "2026-08-25T19:41:11.485Z"
+        }
+      ]
+    }
+  ]
+}
