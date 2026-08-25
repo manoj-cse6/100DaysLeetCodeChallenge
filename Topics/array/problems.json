@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-25T19:42:55.225Z",
+  "updatedAt": "2026-08-25T19:43:23.520Z",
   "problems": [
     {
       "frontendId": "347",
@@ -203,6 +203,26 @@
           "path": "3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.cpp",
           "sha": "2e91ad1a7cc146e465507e9d57b861e7a4ef0947",
           "lastSyncedAt": "2026-08-25T19:42:42.793Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3702",
+      "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+      "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+      "problemName": "3702-longest-subsequence-with-non-zero-bitwise-xor",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/",
+      "folderPath": "3702-longest-subsequence-with-non-zero-bitwise-xor/",
+      "readmePath": "3702-longest-subsequence-with-non-zero-bitwise-xor/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
+          "path": "3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.cpp",
+          "sha": "be5bc18a385731e710b05397b954401b1324b824",
+          "lastSyncedAt": "2026-08-25T19:43:23.520Z"
         }
       ]
     },
