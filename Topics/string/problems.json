@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-25T19:41:18.859Z",
+  "updatedAt": "2026-08-25T19:41:59.046Z",
   "problems": [
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "0058-length-of-last-word/",
+      "readmePath": "0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0058-length-of-last-word.cpp",
+          "path": "0058-length-of-last-word/0058-length-of-last-word.cpp",
+          "sha": "a3e1ac5f804a6a6de284e7336094c2afe4645991",
+          "lastSyncedAt": "2026-08-25T19:41:59.046Z"
+        }
+      ]
+    },
     {
       "frontendId": "1927",
       "title": "Sum Game",
