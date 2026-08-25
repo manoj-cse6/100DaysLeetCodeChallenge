@@ -1,5 +1,24 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
+# 🚀 My LeetCode DSA Journey
+
+> Consistently solving problems in C++ to build strong Data Structures & Algorithms skills.
+
+**🎯 Current Milestone:** 96+ Problems Solved  
+**💻 Language:** C++  
+**🔥 Focus:** DSA • Problem Solving • Competitive Programming
+
+### 🏆 Goals
+
+- [x] 50 Problems
+- [x] 75 Problems
+- [ ] 100 Problems
+- [ ] 150 Problems
+- [ ] 200 Problems
+
+---
+
+
 <!---LeetHub Summary Start-->
 ## LeetHub Summary
 
