@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-25T19:46:58.477Z",
+  "updatedAt": "2026-08-25T19:47:07.970Z",
   "problems": [
     {
       "frontendId": "1281",
@@ -82,7 +82,7 @@
           "filename": "3622-check-divisibility-by-digit-sum-and-product.cpp",
           "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.cpp",
           "sha": "cf99d46f325410d85e0c4d5d5df91a7c94021ccc",
-          "lastSyncedAt": "2026-08-25T19:44:36.088Z"
+          "lastSyncedAt": "2026-08-25T19:47:07.970Z"
         }
       ]
     }
