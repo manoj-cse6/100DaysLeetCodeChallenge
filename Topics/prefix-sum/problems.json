@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-08-25T19:40:51.914Z",
+  "problems": [
+    {
+      "frontendId": "3152",
+      "title": "Special Array II",
+      "slug": "special-array-ii",
+      "problemName": "3152-special-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/special-array-ii/",
+      "folderPath": "3152-special-array-ii/",
+      "readmePath": "3152-special-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3152-special-array-ii.cpp",
+          "path": "3152-special-array-ii/3152-special-array-ii.cpp",
+          "sha": "0b8e0830a89af8188ac9300af0ae832dd248d20a",
+          "lastSyncedAt": "2026-08-25T19:40:51.914Z"
+        }
+      ]
+    }
+  ]
+}
