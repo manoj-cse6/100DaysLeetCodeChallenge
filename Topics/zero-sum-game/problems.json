@@ -4,7 +4,7 @@
     "slug": "zero-sum-game",
     "name": "Zero-Sum Game"
   },
-  "updatedAt": "2026-08-25T19:53:09.339Z",
+  "updatedAt": "2026-08-26T17:21:11.303Z",
   "problems": [
     {
       "frontendId": "2029",
@@ -22,7 +22,7 @@
           "filename": "2029-stone-game-ix.cpp",
           "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "02815a879ade7e4c4b88ffcd6ae0cd5b39cc0e2a",
-          "lastSyncedAt": "2026-08-25T19:53:09.339Z"
+          "lastSyncedAt": "2026-08-26T17:21:11.303Z"
         }
       ]
     }
