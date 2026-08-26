@@ -18,23 +18,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ---
 
-
 <!---LeetHub Summary Start-->
 ## LeetHub Summary
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 9 | 11 | 0 |
+| 20 | 8 | 12 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 12 days | 12 days | 12 |
+| 11 days | 11 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-15 | 1 |
 | 2026-08-16 | 3 |
 | 2026-08-17 | 1 |
 | 2026-08-18 | 2 |
@@ -45,18 +43,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-08-23 | 5 |
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
-| 2026-08-26 | 1 |
+| 2026-08-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 65% |
+| Array | 12 | 60% |
 | Hash Table | 4 | 20% |
 | Math | 4 | 20% |
-| Simulation | 4 | 20% |
 | String | 4 | 20% |
 | Greedy | 3 | 15% |
+| Simulation | 3 | 15% |
 | Bit Manipulation | 2 | 10% |
 | Counting | 2 | 10% |
 | Game Theory | 2 | 10% |
@@ -90,10 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
-| [Sliding Window](Topics/sliding-window/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
 
