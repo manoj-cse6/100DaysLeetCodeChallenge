@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-26T17:21:00.677Z",
+  "updatedAt": "2026-08-27T14:44:00.615Z",
   "problems": [
     {
       "frontendId": "347",
@@ -83,6 +83,26 @@
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.cpp",
           "sha": "a70513077044fdbe51b5cb961d401401cec9ce35",
           "lastSyncedAt": "2026-08-26T17:19:36.024Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3720",
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-permutation-greater-than-target",
+      "problemName": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
+      "folderPath": "3720-lexicographically-smallest-permutation-greater-than-target/",
+      "readmePath": "3720-lexicographically-smallest-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3720-lexicographically-smallest-permutation-greater-than-target.cpp",
+          "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.cpp",
+          "sha": "9d990bc7a05840aaea24593b6fbd7f70390e40a0",
+          "lastSyncedAt": "2026-08-27T14:44:00.615Z"
         }
       ]
     }
