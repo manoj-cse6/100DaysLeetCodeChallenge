@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T00:54:32.524Z",
+  "updatedAt": "2026-08-31T00:54:35.463Z",
   "problems": [
     {
       "frontendId": "347",
@@ -242,7 +242,7 @@
           "filename": "3152-special-array-ii.cpp",
           "path": "3152-special-array-ii/3152-special-array-ii.cpp",
           "sha": "0b8e0830a89af8188ac9300af0ae832dd248d20a",
-          "lastSyncedAt": "2026-08-26T17:19:45.801Z"
+          "lastSyncedAt": "2026-08-31T00:54:35.463Z"
         }
       ]
     },
