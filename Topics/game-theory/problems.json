@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-08-26T17:21:11.303Z",
+  "updatedAt": "2026-08-31T00:54:07.836Z",
   "problems": [
     {
       "frontendId": "1927",
@@ -43,6 +43,26 @@
           "path": "2029-stone-game-ix/2029-stone-game-ix.cpp",
           "sha": "02815a879ade7e4c4b88ffcd6ae0cd5b39cc0e2a",
           "lastSyncedAt": "2026-08-26T17:21:11.303Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3627",
+      "title": "Maximum Median Sum of Subsequences of Size 3",
+      "slug": "maximum-median-sum-of-subsequences-of-size-3",
+      "problemName": "3627-maximum-median-sum-of-subsequences-of-size-3",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/",
+      "folderPath": "3627-maximum-median-sum-of-subsequences-of-size-3/",
+      "readmePath": "3627-maximum-median-sum-of-subsequences-of-size-3/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3627-maximum-median-sum-of-subsequences-of-size-3.cpp",
+          "path": "3627-maximum-median-sum-of-subsequences-of-size-3/3627-maximum-median-sum-of-subsequences-of-size-3.cpp",
+          "sha": "fe2b396f032303a784c16f4b10b76ae8f430459f",
+          "lastSyncedAt": "2026-08-31T00:54:07.836Z"
         }
       ]
     }
