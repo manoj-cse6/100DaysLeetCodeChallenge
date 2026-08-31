@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-31T00:53:58.702Z",
+  "updatedAt": "2026-08-31T00:54:07.836Z",
   "problems": [
     {
       "frontendId": "347",
@@ -263,6 +263,26 @@
           "path": "3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.cpp",
           "sha": "2e91ad1a7cc146e465507e9d57b861e7a4ef0947",
           "lastSyncedAt": "2026-08-26T17:21:00.677Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3627",
+      "title": "Maximum Median Sum of Subsequences of Size 3",
+      "slug": "maximum-median-sum-of-subsequences-of-size-3",
+      "problemName": "3627-maximum-median-sum-of-subsequences-of-size-3",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/",
+      "folderPath": "3627-maximum-median-sum-of-subsequences-of-size-3/",
+      "readmePath": "3627-maximum-median-sum-of-subsequences-of-size-3/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3627-maximum-median-sum-of-subsequences-of-size-3.cpp",
+          "path": "3627-maximum-median-sum-of-subsequences-of-size-3/3627-maximum-median-sum-of-subsequences-of-size-3.cpp",
+          "sha": "fe2b396f032303a784c16f4b10b76ae8f430459f",
+          "lastSyncedAt": "2026-08-31T00:54:07.836Z"
         }
       ]
     },
