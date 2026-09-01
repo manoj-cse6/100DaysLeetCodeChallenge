@@ -23,13 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 6 | 14 | 0 |
+| 21 | 6 | 15 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 9 days | 11 |
+| 3 days | 9 days | 12 |
 
 | Date | Problems |
 | --- | ---: |
@@ -44,31 +44,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-08-28 | 1 |
 | 2026-08-30 | 4 |
 | 2026-08-31 | 1 |
+| 2026-09-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 9 | 45% |
-| Greedy | 4 | 20% |
-| String | 4 | 20% |
-| Math | 3 | 15% |
-| Simulation | 3 | 15% |
+| Array | 10 | 48% |
+| Greedy | 4 | 19% |
+| String | 4 | 19% |
+| Hash Table | 3 | 14% |
+| Math | 3 | 14% |
+| Simulation | 3 | 14% |
 | Game Theory | 2 | 10% |
-| Hash Table | 2 | 10% |
+| Matrix | 2 | 10% |
 | Sliding Window | 2 | 10% |
 | Sorting | 2 | 10% |
-| Binary Search | 1 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 16 |
+| [Array](Topics/array/) | 17 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -83,7 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 5 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
