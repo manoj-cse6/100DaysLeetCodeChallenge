@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-26T17:21:29.402Z",
+  "updatedAt": "2026-09-01T16:18:11.239Z",
   "problems": [
     {
       "frontendId": "1386",
@@ -23,6 +23,26 @@
           "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
           "sha": "2ad6bf0985019148b7ea8af919d367384b9da300",
           "lastSyncedAt": "2026-08-26T17:20:34.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3568",
+      "title": "Minimum Moves to Clean the Classroom",
+      "slug": "minimum-moves-to-clean-the-classroom",
+      "problemName": "3568-minimum-moves-to-clean-the-classroom",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/",
+      "folderPath": "3568-minimum-moves-to-clean-the-classroom/",
+      "readmePath": "3568-minimum-moves-to-clean-the-classroom/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3568-minimum-moves-to-clean-the-classroom.cpp",
+          "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.cpp",
+          "sha": "55be969573ddcbcf5bc40ba94d6b69b30224976a",
+          "lastSyncedAt": "2026-09-01T16:18:11.239Z"
         }
       ]
     },
