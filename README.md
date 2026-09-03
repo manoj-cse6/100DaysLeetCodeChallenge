@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Math
+|  |
+| ------- |
+| [3876-construct-uniform-parity-array-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
