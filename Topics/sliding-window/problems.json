@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-05T17:12:48.079Z",
+  "updatedAt": "2026-09-05T17:13:07.225Z",
   "problems": [
     {
       "frontendId": "2090",
@@ -22,7 +22,7 @@
           "filename": "2090-k-radius-subarray-averages.cpp",
           "path": "2090-k-radius-subarray-averages/2090-k-radius-subarray-averages.cpp",
           "sha": "ae7a41587b8eee02a868dd73208bc5ec252f5eac",
-          "lastSyncedAt": "2026-08-31T00:54:46.840Z"
+          "lastSyncedAt": "2026-09-05T17:13:07.225Z"
         }
       ]
     },
