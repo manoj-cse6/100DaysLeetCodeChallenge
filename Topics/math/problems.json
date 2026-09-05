@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-31T00:54:58.269Z",
+  "updatedAt": "2026-09-05T17:11:52.674Z",
   "problems": [
     {
       "frontendId": "1281",
@@ -103,6 +103,26 @@
           "path": "3627-maximum-median-sum-of-subsequences-of-size-3/3627-maximum-median-sum-of-subsequences-of-size-3.cpp",
           "sha": "fe2b396f032303a784c16f4b10b76ae8f430459f",
           "lastSyncedAt": "2026-08-31T00:54:07.836Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3876",
+      "title": "Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "problemName": "3876-construct-uniform-parity-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
+      "folderPath": "3876-construct-uniform-parity-array-ii/",
+      "readmePath": "3876-construct-uniform-parity-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3876-construct-uniform-parity-array-ii.cpp",
+          "path": "3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.cpp",
+          "sha": "32848a55ae2a96ee3503399f734e84ae1f2f76cb",
+          "lastSyncedAt": "2026-09-05T17:11:52.674Z"
         }
       ]
     }
