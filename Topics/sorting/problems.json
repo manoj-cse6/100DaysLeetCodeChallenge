@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-05T17:12:20.856Z",
+  "updatedAt": "2026-09-05T17:12:29.911Z",
   "problems": [
     {
       "frontendId": "347",
@@ -62,7 +62,7 @@
           "filename": "3627-maximum-median-sum-of-subsequences-of-size-3.cpp",
           "path": "3627-maximum-median-sum-of-subsequences-of-size-3/3627-maximum-median-sum-of-subsequences-of-size-3.cpp",
           "sha": "fe2b396f032303a784c16f4b10b76ae8f430459f",
-          "lastSyncedAt": "2026-08-31T00:54:07.836Z"
+          "lastSyncedAt": "2026-09-05T17:12:29.911Z"
         }
       ]
     }
