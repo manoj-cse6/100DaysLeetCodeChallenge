@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-08-31T00:53:58.702Z",
+  "updatedAt": "2026-09-05T17:12:20.856Z",
   "problems": [
     {
       "frontendId": "2948",
@@ -22,7 +22,7 @@
           "filename": "2948-make-lexicographically-smallest-array-by-swapping-elements.cpp",
           "path": "2948-make-lexicographically-smallest-array-by-swapping-elements/2948-make-lexicographically-smallest-array-by-swapping-elements.cpp",
           "sha": "7e009650f34a131247ec246f3c607119e95a863e",
-          "lastSyncedAt": "2026-08-31T00:53:58.702Z"
+          "lastSyncedAt": "2026-09-05T17:12:20.856Z"
         }
       ]
     }
