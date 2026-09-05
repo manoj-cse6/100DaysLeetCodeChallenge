@@ -23,39 +23,39 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 6 | 15 | 0 |
+| 20 | 3 | 17 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 9 days | 12 |
+| 3 days | 6 days | 12 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-20 | 2 |
-| 2026-08-21 | 1 |
-| 2026-08-22 | 1 |
-| 2026-08-23 | 5 |
+| 2026-08-23 | 4 |
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
 | 2026-08-26 | 2 |
 | 2026-08-27 | 1 |
 | 2026-08-28 | 1 |
 | 2026-08-30 | 4 |
-| 2026-08-31 | 1 |
+| 2026-08-31 | 2 |
 | 2026-09-01 | 1 |
+| 2026-09-03 | 1 |
+| 2026-09-04 | 1 |
+| 2026-09-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 48% |
-| Greedy | 4 | 19% |
-| String | 4 | 19% |
-| Hash Table | 3 | 14% |
-| Math | 3 | 14% |
-| Simulation | 3 | 14% |
+| Array | 11 | 55% |
+| Greedy | 4 | 20% |
+| Hash Table | 3 | 15% |
+| Math | 3 | 15% |
+| Prefix Sum | 3 | 15% |
+| String | 3 | 15% |
 | Game Theory | 2 | 10% |
 | Matrix | 2 | 10% |
 | Sliding Window | 2 | 10% |
@@ -65,7 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 17 |
+| [Array](Topics/array/) | 20 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -83,12 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
-| [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 5 |
+| [Linked List](Topics/linked-list/) | 1 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
