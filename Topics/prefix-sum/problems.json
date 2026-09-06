@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-06T03:59:31.103Z",
+  "updatedAt": "2026-09-06T03:59:36.279Z",
   "problems": [
     {
       "frontendId": "3152",
@@ -42,7 +42,7 @@
           "filename": "3903-smallest-stable-index-i.cpp",
           "path": "3903-smallest-stable-index-i/3903-smallest-stable-index-i.cpp",
           "sha": "8e4c64386c93c2ad7641e6b0282624a256674910",
-          "lastSyncedAt": "2026-09-05T17:11:49.030Z"
+          "lastSyncedAt": "2026-09-06T03:59:36.279Z"
         }
       ]
     },
