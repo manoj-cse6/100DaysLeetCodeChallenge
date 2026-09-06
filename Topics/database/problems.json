@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database"
+  },
+  "updatedAt": "2026-09-06T18:15:42.911Z",
+  "problems": [
+    {
+      "frontendId": "180",
+      "title": "Consecutive Numbers",
+      "slug": "consecutive-numbers",
+      "problemName": "0180-consecutive-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/consecutive-numbers/",
+      "folderPath": "0180-consecutive-numbers/",
+      "readmePath": "0180-consecutive-numbers/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0180-consecutive-numbers.sql",
+          "path": "0180-consecutive-numbers/0180-consecutive-numbers.sql",
+          "sha": "1c929ff01c5589f5f863d2cb39129f1be47f7961",
+          "lastSyncedAt": "2026-09-06T18:15:42.911Z"
+        }
+      ]
+    }
+  ]
+}
