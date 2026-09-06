@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-05T17:13:07.225Z",
+  "updatedAt": "2026-09-06T03:59:31.103Z",
   "problems": [
     {
       "frontendId": "347",
@@ -402,7 +402,7 @@
           "filename": "3904-smallest-stable-index-ii.cpp",
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.cpp",
           "sha": "953a3e423eb409609285ba97e7b071fd3b124acb",
-          "lastSyncedAt": "2026-09-05T17:11:42.439Z"
+          "lastSyncedAt": "2026-09-06T03:59:31.103Z"
         }
       ]
     }
