@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-05T17:12:38.116Z",
+  "updatedAt": "2026-09-06T04:00:47.718Z",
   "problems": [
     {
       "frontendId": "347",
@@ -62,7 +62,7 @@
           "filename": "3720-lexicographically-smallest-permutation-greater-than-target.cpp",
           "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.cpp",
           "sha": "9d990bc7a05840aaea24593b6fbd7f70390e40a0",
-          "lastSyncedAt": "2026-09-05T17:12:38.116Z"
+          "lastSyncedAt": "2026-09-06T04:00:47.718Z"
         }
       ]
     }
