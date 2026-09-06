@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-06T03:59:45.123Z",
+  "updatedAt": "2026-09-06T04:00:24.893Z",
   "problems": [
     {
       "frontendId": "347",
@@ -142,7 +142,7 @@
           "filename": "2091-removing-minimum-and-maximum-from-array.cpp",
           "path": "2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.cpp",
           "sha": "5667eb10f1181f6c41832972761cbae483c95d30",
-          "lastSyncedAt": "2026-09-05T17:12:14.240Z"
+          "lastSyncedAt": "2026-09-06T04:00:24.893Z"
         }
       ]
     },
