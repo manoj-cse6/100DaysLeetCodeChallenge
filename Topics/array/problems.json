@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-06T04:00:24.893Z",
+  "updatedAt": "2026-09-06T04:00:32.131Z",
   "problems": [
     {
       "frontendId": "347",
@@ -182,7 +182,7 @@
           "filename": "2948-make-lexicographically-smallest-array-by-swapping-elements.cpp",
           "path": "2948-make-lexicographically-smallest-array-by-swapping-elements/2948-make-lexicographically-smallest-array-by-swapping-elements.cpp",
           "sha": "7e009650f34a131247ec246f3c607119e95a863e",
-          "lastSyncedAt": "2026-09-05T17:12:20.856Z"
+          "lastSyncedAt": "2026-09-06T04:00:32.131Z"
         }
       ]
     },
