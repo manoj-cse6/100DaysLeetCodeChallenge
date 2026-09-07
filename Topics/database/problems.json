@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-06T18:15:58.752Z",
+  "updatedAt": "2026-09-07T00:47:10.904Z",
   "problems": [
+    {
+      "frontendId": "178",
+      "title": "Rank Scores",
+      "slug": "rank-scores",
+      "problemName": "0178-rank-scores",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-scores/",
+      "folderPath": "0178-rank-scores/",
+      "readmePath": "0178-rank-scores/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0178-rank-scores.sql",
+          "path": "0178-rank-scores/0178-rank-scores.sql",
+          "sha": "2403a71fcd2bf1c2a4890a24f179f43d737c55a8",
+          "lastSyncedAt": "2026-09-07T00:47:10.904Z"
+        }
+      ]
+    },
     {
       "frontendId": "180",
       "title": "Consecutive Numbers",
