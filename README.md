@@ -23,17 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 3 | 17 | 0 |
+| 23 | 3 | 20 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 6 days | 12 |
+| 6 days | 6 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-23 | 4 |
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
 | 2026-08-26 | 2 |
@@ -45,35 +44,39 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-03 | 1 |
 | 2026-09-04 | 1 |
 | 2026-09-05 | 1 |
+| 2026-09-06 | 1 |
+| 2026-09-07 | 1 |
+| 2026-09-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 55% |
-| Greedy | 4 | 20% |
-| Hash Table | 3 | 15% |
-| Math | 3 | 15% |
-| Prefix Sum | 3 | 15% |
-| String | 3 | 15% |
-| Game Theory | 2 | 10% |
-| Matrix | 2 | 10% |
-| Sliding Window | 2 | 10% |
-| Sorting | 2 | 10% |
+| Array | 12 | 52% |
+| Greedy | 4 | 17% |
+| Hash Table | 3 | 13% |
+| Math | 3 | 13% |
+| Matrix | 3 | 13% |
+| Prefix Sum | 3 | 13% |
+| String | 3 | 13% |
+| Breadth-First Search | 2 | 9% |
+| Database | 2 | 9% |
+| Game Theory | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 21 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 3 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Database](Topics/database/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Enumeration](Topics/enumeration/) | 1 |
@@ -85,7 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 6 |
-| [Matrix](Topics/matrix/) | 2 |
+| [Matrix](Topics/matrix/) | 3 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
