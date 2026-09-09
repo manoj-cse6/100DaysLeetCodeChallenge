@@ -23,17 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 3 | 20 | 0 |
+| 25 | 4 | 20 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 6 days | 15 |
+| 7 days | 7 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
 | 2026-08-26 | 2 |
 | 2026-08-27 | 1 |
@@ -47,37 +46,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-06 | 1 |
 | 2026-09-07 | 1 |
 | 2026-09-08 | 1 |
+| 2026-09-09 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 52% |
-| Greedy | 4 | 17% |
-| Hash Table | 3 | 13% |
-| Math | 3 | 13% |
-| Matrix | 3 | 13% |
-| Prefix Sum | 3 | 13% |
-| String | 3 | 13% |
-| Breadth-First Search | 2 | 9% |
-| Database | 2 | 9% |
-| Game Theory | 2 | 9% |
+| Array | 13 | 52% |
+| Greedy | 4 | 16% |
+| String | 4 | 16% |
+| Hash Table | 3 | 12% |
+| Math | 3 | 12% |
+| Matrix | 3 | 12% |
+| Prefix Sum | 3 | 12% |
+| Binary Search | 2 | 8% |
+| Breadth-First Search | 2 | 8% |
+| Counting | 2 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 21 |
+| [Array](Topics/array/) | 22 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
-| [Counting](Topics/counting/) | 3 |
+| [Counting](Topics/counting/) | 4 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 3 |
@@ -97,7 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 6 |
+| [String](Topics/string/) | 7 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
