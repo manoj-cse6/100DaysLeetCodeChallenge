@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-06T04:01:05.118Z",
+  "updatedAt": "2026-09-10T14:25:42.844Z",
   "problems": [
     {
       "frontendId": "3152",
@@ -63,6 +63,26 @@
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.cpp",
           "sha": "953a3e423eb409609285ba97e7b071fd3b124acb",
           "lastSyncedAt": "2026-09-06T03:59:31.103Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4012",
+      "title": "Count of Unfinished Tasks After Each Shift",
+      "slug": "count-of-unfinished-tasks-after-each-shift",
+      "problemName": "4012-count-of-unfinished-tasks-after-each-shift",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-unfinished-tasks-after-each-shift/",
+      "folderPath": "4012-count-of-unfinished-tasks-after-each-shift/",
+      "readmePath": "4012-count-of-unfinished-tasks-after-each-shift/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4012-count-of-unfinished-tasks-after-each-shift.cpp",
+          "path": "4012-count-of-unfinished-tasks-after-each-shift/4012-count-of-unfinished-tasks-after-each-shift.cpp",
+          "sha": "4bfdc881f3f2888e8aac9c8c1585716a2423d4d9",
+          "lastSyncedAt": "2026-09-10T14:25:42.844Z"
         }
       ]
     }
