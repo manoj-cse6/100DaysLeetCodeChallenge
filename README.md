@@ -23,18 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 4 | 20 | 1 |
+| 29 | 5 | 23 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 7 days | 16 |
+| 9 days | 9 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-25 | 1 |
-| 2026-08-26 | 2 |
 | 2026-08-27 | 1 |
 | 2026-08-28 | 1 |
 | 2026-08-30 | 4 |
@@ -46,56 +44,60 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-06 | 1 |
 | 2026-09-07 | 1 |
 | 2026-09-08 | 1 |
-| 2026-09-09 | 2 |
+| 2026-09-09 | 3 |
+| 2026-09-10 | 1 |
+| 2026-09-11 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 52% |
-| Greedy | 4 | 16% |
-| String | 4 | 16% |
-| Hash Table | 3 | 12% |
-| Math | 3 | 12% |
-| Matrix | 3 | 12% |
-| Prefix Sum | 3 | 12% |
-| Binary Search | 2 | 8% |
-| Breadth-First Search | 2 | 8% |
-| Counting | 2 | 8% |
+| Array | 16 | 55% |
+| Hash Table | 5 | 17% |
+| Greedy | 4 | 14% |
+| Math | 4 | 14% |
+| Prefix Sum | 4 | 14% |
+| String | 4 | 14% |
+| Binary Search | 3 | 10% |
+| Counting | 3 | 10% |
+| Matrix | 3 | 10% |
+| Sorting | 3 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 22 |
+| [Array](Topics/array/) | 25 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
-| [Counting](Topics/counting/) | 4 |
+| [Counting](Topics/counting/) | 5 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Database](Topics/database/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
-| [Enumeration](Topics/enumeration/) | 1 |
+| [Enumeration](Topics/enumeration/) | 2 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 6 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Quickselect](Topics/quickselect/) | 1 |
+| [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 7 |
 | [Union-Find](Topics/union-find/) | 1 |
