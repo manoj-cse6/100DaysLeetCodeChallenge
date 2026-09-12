@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-11T15:33:39.227Z",
+  "updatedAt": "2026-09-12T15:01:54.961Z",
   "problems": [
     {
       "frontendId": "4",
@@ -63,6 +63,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "77b49f0308a24a13b979b09ae1b39d07c73c0f59",
           "lastSyncedAt": "2026-08-26T17:20:41.931Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "804",
+      "title": "Unique Morse Code Words",
+      "slug": "unique-morse-code-words",
+      "problemName": "0804-unique-morse-code-words",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-morse-code-words/",
+      "folderPath": "0804-unique-morse-code-words/",
+      "readmePath": "0804-unique-morse-code-words/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0804-unique-morse-code-words.cpp",
+          "path": "0804-unique-morse-code-words/0804-unique-morse-code-words.cpp",
+          "sha": "e9ba501a76910bc7ea38946df8b9d618e0c2d975",
+          "lastSyncedAt": "2026-09-12T15:01:54.961Z"
         }
       ]
     },
