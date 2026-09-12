@@ -23,17 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 5 | 23 | 1 |
+| 30 | 6 | 23 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 9 days | 18 |
+| 10 days | 10 days | 19 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-27 | 1 |
 | 2026-08-28 | 1 |
 | 2026-08-30 | 4 |
 | 2026-08-31 | 2 |
@@ -47,17 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-09 | 3 |
 | 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
+| 2026-09-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 55% |
-| Hash Table | 5 | 17% |
-| Greedy | 4 | 14% |
-| Math | 4 | 14% |
-| Prefix Sum | 4 | 14% |
-| String | 4 | 14% |
+| Array | 17 | 57% |
+| Hash Table | 6 | 20% |
+| String | 5 | 17% |
+| Greedy | 4 | 13% |
+| Math | 4 | 13% |
+| Prefix Sum | 4 | 13% |
 | Binary Search | 3 | 10% |
 | Counting | 3 | 10% |
 | Matrix | 3 | 10% |
@@ -67,7 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
+| [Array](Topics/array/) | 26 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -84,7 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 6 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
@@ -99,7 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
