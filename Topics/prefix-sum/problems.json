@@ -4,8 +4,28 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-10T14:25:42.844Z",
+  "updatedAt": "2026-09-16T09:54:40.162Z",
   "problems": [
+    {
+      "frontendId": "1838",
+      "title": "Frequency of the Most Frequent Element",
+      "slug": "frequency-of-the-most-frequent-element",
+      "problemName": "1838-frequency-of-the-most-frequent-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+      "folderPath": "1838-frequency-of-the-most-frequent-element/",
+      "readmePath": "1838-frequency-of-the-most-frequent-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1838-frequency-of-the-most-frequent-element.cpp",
+          "path": "1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.cpp",
+          "sha": "78454ea4df08b90206715145387dab9bfcc87dd9",
+          "lastSyncedAt": "2026-09-16T09:54:40.162Z"
+        }
+      ]
+    },
     {
       "frontendId": "3152",
       "title": "Special Array II",
