@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-11T15:33:39.227Z",
+  "updatedAt": "2026-09-16T09:54:40.162Z",
   "problems": [
     {
       "frontendId": "229",
@@ -43,6 +43,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "77b49f0308a24a13b979b09ae1b39d07c73c0f59",
           "lastSyncedAt": "2026-08-26T17:20:41.931Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1838",
+      "title": "Frequency of the Most Frequent Element",
+      "slug": "frequency-of-the-most-frequent-element",
+      "problemName": "1838-frequency-of-the-most-frequent-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+      "folderPath": "1838-frequency-of-the-most-frequent-element/",
+      "readmePath": "1838-frequency-of-the-most-frequent-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1838-frequency-of-the-most-frequent-element.cpp",
+          "path": "1838-frequency-of-the-most-frequent-element/1838-frequency-of-the-most-frequent-element.cpp",
+          "sha": "78454ea4df08b90206715145387dab9bfcc87dd9",
+          "lastSyncedAt": "2026-09-16T09:54:40.162Z"
         }
       ]
     },
