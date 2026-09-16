@@ -23,7 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 6 | 24 | 1 |
+| 32 | 6 | 25 | 1 |
 
 ## Activity
 
@@ -46,28 +46,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
 | 2026-09-12 | 1 |
-| 2026-09-16 | 1 |
+| 2026-09-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 58% |
+| Array | 19 | 59% |
 | Hash Table | 6 | 19% |
 | Greedy | 5 | 16% |
+| Math | 5 | 16% |
 | Prefix Sum | 5 | 16% |
 | String | 5 | 16% |
 | Binary Search | 4 | 13% |
-| Math | 4 | 13% |
 | Sorting | 4 | 13% |
-| Counting | 3 | 10% |
-| Matrix | 3 | 10% |
+| Counting | 3 | 9% |
+| Matrix | 3 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -88,7 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 8 |
+| [Two Pointers](Topics/two-pointers/) | 1 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
