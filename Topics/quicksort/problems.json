@@ -4,7 +4,7 @@
     "slug": "quicksort",
     "name": "Quicksort"
   },
-  "updatedAt": "2026-09-16T10:18:39.113Z",
+  "updatedAt": "2026-09-16T10:25:54.103Z",
   "problems": [
     {
       "frontendId": "75",
@@ -22,7 +22,7 @@
           "filename": "0075-sort-colors.cpp",
           "path": "0075-sort-colors/0075-sort-colors.cpp",
           "sha": "5391914db8f2aae490e9fce49ae39169fc7aedaf",
-          "lastSyncedAt": "2026-09-16T10:18:39.113Z"
+          "lastSyncedAt": "2026-09-16T10:25:54.103Z"
         }
       ]
     }
