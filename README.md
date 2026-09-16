@@ -23,17 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 6 | 23 | 1 |
+| 31 | 6 | 24 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 10 days | 10 days | 19 |
+| 1 days | 10 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-28 | 1 |
 | 2026-08-30 | 4 |
 | 2026-08-31 | 2 |
 | 2026-09-01 | 1 |
@@ -47,29 +46,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
 | 2026-09-12 | 1 |
+| 2026-09-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 57% |
-| Hash Table | 6 | 20% |
-| String | 5 | 17% |
-| Greedy | 4 | 13% |
+| Array | 18 | 58% |
+| Hash Table | 6 | 19% |
+| Greedy | 5 | 16% |
+| Prefix Sum | 5 | 16% |
+| String | 5 | 16% |
+| Binary Search | 4 | 13% |
 | Math | 4 | 13% |
-| Prefix Sum | 4 | 13% |
-| Binary Search | 3 | 10% |
+| Sorting | 4 | 13% |
 | Counting | 3 | 10% |
 | Matrix | 3 | 10% |
-| Sorting | 3 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 27 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -83,7 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Game Theory](Topics/game-theory/) | 3 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 6 |
+| [Greedy](Topics/greedy/) | 7 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
@@ -92,12 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Matrix](Topics/matrix/) | 3 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
 | [Nim Game](Topics/nim-game/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 4 |
+| [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
-| [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sliding Window](Topics/sliding-window/) | 3 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 8 |
 | [Union-Find](Topics/union-find/) | 1 |
