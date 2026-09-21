@@ -4,6 +4,27 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-25T18:47:11.270Z",
-  "problems": []
+  "updatedAt": "2026-09-21T14:35:26.749Z",
+  "problems": [
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3524-find-x-value-of-array-i.cpp",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.cpp",
+          "sha": "3dac85f8d26f1cfd2e8a3d210d21e410d460f1d9",
+          "lastSyncedAt": "2026-09-21T14:35:26.749Z"
+        }
+      ]
+    }
+  ]
 }
