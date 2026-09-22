@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-21T14:35:26.749Z",
+  "updatedAt": "2026-09-22T12:25:10.988Z",
   "problems": [
+    {
+      "frontendId": "198",
+      "title": "House Robber",
+      "slug": "house-robber",
+      "problemName": "0198-house-robber",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber/",
+      "folderPath": "0198-house-robber/",
+      "readmePath": "0198-house-robber/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0198-house-robber.cpp",
+          "path": "0198-house-robber/0198-house-robber.cpp",
+          "sha": "f67c569d02fd7cd63cd64612b3ff8393a6737d39",
+          "lastSyncedAt": "2026-09-22T12:25:10.988Z"
+        }
+      ]
+    },
     {
       "frontendId": "3524",
       "title": "Find X Value of Array I",
