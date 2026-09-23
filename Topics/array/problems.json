@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-22T12:25:10.988Z",
+  "updatedAt": "2026-09-23T13:40:14.616Z",
   "problems": [
     {
       "frontendId": "4",
@@ -243,6 +243,26 @@
           "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.cpp",
           "sha": "2ad6bf0985019148b7ea8af919d367384b9da300",
           "lastSyncedAt": "2026-08-26T17:20:34.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.cpp",
+          "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.cpp",
+          "sha": "fe25f35de89a842a147a8c24dd3911954769d940",
+          "lastSyncedAt": "2026-09-23T13:40:14.616Z"
         }
       ]
     },
