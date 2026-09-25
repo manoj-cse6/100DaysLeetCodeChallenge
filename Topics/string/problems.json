@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-12T15:01:54.961Z",
+  "updatedAt": "2026-09-25T17:08:27.337Z",
   "problems": [
     {
       "frontendId": "58",
@@ -23,6 +23,26 @@
           "path": "0058-length-of-last-word/0058-length-of-last-word.cpp",
           "sha": "a3e1ac5f804a6a6de284e7336094c2afe4645991",
           "lastSyncedAt": "2026-08-31T00:55:06.157Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "93",
+      "title": "Restore IP Addresses",
+      "slug": "restore-ip-addresses",
+      "problemName": "0093-restore-ip-addresses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/restore-ip-addresses/",
+      "folderPath": "0093-restore-ip-addresses/",
+      "readmePath": "0093-restore-ip-addresses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0093-restore-ip-addresses.cpp",
+          "path": "0093-restore-ip-addresses/0093-restore-ip-addresses.cpp",
+          "sha": "18f8241358aa251a18ea52cf832456f4b11eecbb",
+          "lastSyncedAt": "2026-09-25T17:08:27.337Z"
         }
       ]
     },
