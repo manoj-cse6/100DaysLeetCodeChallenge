@@ -23,18 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 8 | 31 | 1 |
+| 42 | 10 | 31 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 10 days | 26 |
+| 1 days | 10 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-06 | 1 |
-| 2026-09-07 | 1 |
 | 2026-09-08 | 1 |
 | 2026-09-09 | 3 |
 | 2026-09-10 | 1 |
@@ -47,32 +45,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-09-22 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-25 | 1 |
+| 2026-09-28 | 1 |
+| 2026-10-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 65% |
-| Hash Table | 7 | 18% |
-| Math | 7 | 18% |
-| Sorting | 6 | 15% |
-| String | 6 | 15% |
-| Binary Search | 5 | 13% |
-| Greedy | 5 | 13% |
-| Prefix Sum | 5 | 13% |
+| Array | 27 | 64% |
+| Hash Table | 7 | 17% |
+| Math | 7 | 17% |
+| Sorting | 7 | 17% |
+| String | 7 | 17% |
+| Binary Search | 5 | 12% |
+| Greedy | 5 | 12% |
+| Prefix Sum | 5 | 12% |
 | Counting | 4 | 10% |
-| Matrix | 3 | 8% |
+| Two Pointers | 4 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 36 |
+| [Array](Topics/array/) | 37 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -99,10 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 3 |
-| [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 9 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Sorting](Topics/sorting/) | 8 |
+| [Stack](Topics/stack/) | 1 |
+| [String](Topics/string/) | 10 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
