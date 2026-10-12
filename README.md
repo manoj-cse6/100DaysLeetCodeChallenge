@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -151,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -164,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
