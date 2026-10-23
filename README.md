@@ -149,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Breadth-First Search
 |  |
 | ------- |
