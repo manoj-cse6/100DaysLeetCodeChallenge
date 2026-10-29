@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0038-count-and-say) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
