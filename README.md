@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
 | [0881-boats-to-save-people](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Knapsack Problem
