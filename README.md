@@ -119,10 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
 | [0881-boats-to-save-people](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2747-count-zero-request-servers](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
+| [2747-count-zero-request-servers](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 ## Timsort
 |  |
 | ------- |
