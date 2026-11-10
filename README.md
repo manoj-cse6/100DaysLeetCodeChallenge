@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3904-smallest-stable-index-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
+| [3693-climbing-stairs-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Knapsack Problem
 |  |
