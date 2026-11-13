@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0279-perfect-squares](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
