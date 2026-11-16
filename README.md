@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0038-count-and-say) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
