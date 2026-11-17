@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0038-count-and-say) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0881-boats-to-save-people](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0221-maximal-square](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [3693-climbing-stairs-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
