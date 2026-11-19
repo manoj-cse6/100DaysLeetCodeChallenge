@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
 | [0881-boats-to-save-people](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 ## Timsort
 |  |
