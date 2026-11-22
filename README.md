@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/0038-count-and-say) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/manoj-cse6/100DaysLeetCodeChallenge/tree/master/3331-find-subtree-sizes-after-changes) |
